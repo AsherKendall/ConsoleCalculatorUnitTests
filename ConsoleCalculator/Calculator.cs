@@ -52,7 +52,7 @@ namespace ConsoleCalculator
         }
         public static double Multiply(double operand1, double operand2)
         {
-            return operand1 * operand2;
+            return operand1 * operand2;            
         }
 
         public double Divide()
