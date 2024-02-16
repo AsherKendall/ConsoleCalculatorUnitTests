@@ -86,5 +86,19 @@ namespace ConsoleCalculator.Tests
             Assert.AreEqual(2, result2);
             StringAssert.Contains(result2.ToString(), "2");
         }
+
+        [TestMethod()]
+        public void DivideByZeroTests()
+        {
+            var Calc = new Calculator(1, 0);
+
+            var result = Calc.Divide();
+
+            Assert.IsNotNull(Calc);
+            Assert.IsNull(result);
+
+            var result2 = Calculator.Divide(1, 0);
+            Assert.IsNull(result2);
+        }
     }
 }
