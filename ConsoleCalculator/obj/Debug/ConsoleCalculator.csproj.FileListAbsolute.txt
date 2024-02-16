@@ -1,0 +1,8 @@
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\asher\source\repos\ConsoleCalculatorUnitTests\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
